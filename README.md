@@ -69,9 +69,9 @@ Hi 👋, I'm Abhishek Wani<br>I am a Competitive Programmer ,Web Developer [Tech
             
             
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek001-1&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishek001-1&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek001-1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek001-1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishek001-1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhishek001-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
