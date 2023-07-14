@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Abhishek Wani<br>I am a Competitive Programmer ,Web Developer [Tech Enthusiast]
+Hi 👋, I'm Abhishek Wani<br>I am a Competitive Programmer + Web Developer 
 
 
 <h3 align="left">Connect with me:</h3>
