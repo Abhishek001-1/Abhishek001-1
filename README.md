@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Abhishek Wani<br>I am a Competitive Programmer + Web Developer 
 
-
+[![An image of @abhishek01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishek01)](https://holopin.io/@abhishek01)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/abhishekwani01" target="blank"><img align="center"
