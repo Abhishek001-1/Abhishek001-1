@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Abhishek Wani<br>I am an AI Engineer and Full-Stack Developer passionate about building scalable AI-powered applications, intelligent automation systems, and modern web solutions. 
+Hi 👋, I'm Abhishek Wani<br>I am a Full-Stack Developer and an AI Engineer passionate about building scalable AI-powered applications, intelligent automation systems, and modern web solutions. 
 
 <h3 align="left">Connect with me:</h3>
 
