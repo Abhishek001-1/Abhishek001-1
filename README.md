@@ -141,7 +141,10 @@ Hi 👋, I'm Abhishek Wani<br>I am a Full-Stack Developer and an AI Engineer pas
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhishek001-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Abhishek001-1&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
