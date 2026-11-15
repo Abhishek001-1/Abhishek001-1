@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Abhishek Wani!
 
-I'm a Software Engineer specializing in Full-Stack Development and Agentic AI, focused on designing intelligent systems, building scalable applications, and transforming complex problems into impactful software solutions.
+I'm a Full-Stack & AI Engineer passionate about building intelligent, AI-driven applications using Generative AI, Agentic AI, and modern web technologies. I enjoy creating scalable solutions that bridge the gap between AI innovation and real-world applications.
 
 <h3 align="left">Connect with me:</h3>
 
