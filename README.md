@@ -4,9 +4,6 @@ Hi 👋, I'm Abhishek Wani<br>I am a Full-Stack Developer and an AI Engineer pas
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-    <a href="https://twitter.com/abhishekwani01" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="abhishekwani01" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/abhishek-wani-068392201" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="abhishek-wani-068392201" height="30" width="40" /></a>
@@ -28,100 +25,109 @@ Hi 👋, I'm Abhishek Wani<br>I am a Full-Stack Developer and an AI Engineer pas
     <a href="https://www.hackerearth.com/@abhishekwani01" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
             alt="@abhishekwani01" height="30" width="40" /></a>
+     <a href="https://twitter.com/abhishekwani01" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="abhishekwani01" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">Tech Stacks:</h3>
 
 <p align="left">
 
 <!-- Languages -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
 
 <!-- Frontend -->
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<a href="https://react.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 </a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </a>
 
 <!-- Backend -->
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
 </a>
 
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<!-- AI / GenAI / Agentic AI -->
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>
+</a>
+<a href="https://www.llamaindex.ai/" target="_blank">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex.png" width="40" height="40"/>
+</a>
+<a href="https://microsoft.github.io/autogen/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/167854574?s=200&v=4" width="40" height="40"/>
+</a>
+<a href="https://www.langchain.com/langgraph" target="_blank">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/langgraph.svg" width="40" height="40"/>
+</a>
+<a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
+<!-- AI / ML Concepts -->
+<a href="https://www.ibm.com/think/topics/generative-ai" target="_blank">
+  <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
+</a>
+<a href="https://www.ibm.com/think/topics/agentic-ai" target="_blank">
+  <img src="https://img.shields.io/badge/Agentic_AI-0078D4?style=for-the-badge&logo=probot&logoColor=white" height="30"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
 </a>
 
-<!-- AI / ML -->
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/>
+<!-- Cloud / Data Engineering -->
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/>
 </a>
-
-<a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex.png" alt="llamaindex" width="40" height="40"/>
+<a href="https://www.databricks.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/databricks/brand/master/logos/db-logo.svg" width="40" height="40"/>
 </a>
-
-<a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/167854574?s=200&v=4" alt="ag2-autogen" width="40" height="40"/>
+<a href="https://www.dataiku.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/dataiku/2AB1AC" width="40" height="40"/>
 </a>
-
-<a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure-openai" width="40" height="40"/>
+<a href="https://spark.apache.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40"/>
 </a>
-
-<!-- Databases -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<a href="https://kafka.apache.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
 </a>
-
-<!-- Big Data -->
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
-</a>
-
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </a>
 
 <!-- Tools -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-</a>
-
-
-</p>            
+</p>
+         
             
 
 
