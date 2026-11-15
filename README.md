@@ -123,10 +123,16 @@ Hi 👋, I'm Abhishek Wani<br>I am a Full-Stack Developer and an AI Engineer pas
 
 </p>            
             
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishek001-1&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek001-1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishek001-1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+![GitHub Stats](./profile/github-stats.svg)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Abhishek001-1&theme=dark&hide_border=false)
+
+![Top Languages](./profile/top-langs.svg)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhishek001-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
