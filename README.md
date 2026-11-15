@@ -106,7 +106,7 @@ Hi 👋, I'm Abhishek Wani<br>I am a Full-Stack Developer and an AI Engineer pas
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/>
 </a>
 <a href="https://www.databricks.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/databricks/brand/master/logos/db-logo.svg" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="databricks" width="40" height="40"/>
 </a>
 <a href="https://www.dataiku.com/" target="_blank">
   <img src="https://cdn.simpleicons.org/dataiku/2AB1AC" width="40" height="40"/>
