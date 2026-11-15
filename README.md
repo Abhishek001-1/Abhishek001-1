@@ -83,8 +83,8 @@ Hi 👋, I'm Abhishek Wani<br>I am a Full-Stack Developer and an AI Engineer pas
 <a href="https://microsoft.github.io/autogen/" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/167854574?s=200&v=4" width="40" height="40"/>
 </a>
-<a href="https://www.langchain.com/langgraph" target="_blank">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/langgraph.svg" width="40" height="40"/>
+<a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/langgraph/1C3C3C" alt="langgraph" width="40" height="40"/>
 </a>
 <a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
