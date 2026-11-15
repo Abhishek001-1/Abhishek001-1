@@ -26,7 +26,8 @@ jobs:
           card: stats
           options: username=Abhishek001-1&show_icons=true&theme=dark&hide_border=false
           path: profile/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_1 }}
+
 
       - name: Generate Top Languages
         uses: readme-tools/github-readme-stats-action@v1
